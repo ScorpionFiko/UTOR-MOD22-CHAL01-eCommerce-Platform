@@ -53,6 +53,10 @@
   margin-right: 1rem;
 }
 
+.spinner {
+  width: 24px!important;
+}
+
 .cart input {
   width: 50px;
   padding: 0;
